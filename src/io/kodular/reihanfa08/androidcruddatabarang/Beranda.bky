@@ -1,0 +1,248 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="component_event" id="p`q=pn_?FJomhfn5WW/~" x="-467" y="-222">
+    <mutation component_type="Form" is_generic="false" instance_name="Beranda" event_name="Initialize"></mutation>
+    <field name="COMPONENT_SELECTOR">Beranda</field>
+    <statement name="DO">
+      <block type="component_set_get" id="upQZn`a)433-+v9_`Tu,">
+        <mutation component_type="Image" set_or_get="set" property_name="Picture" is_generic="false" instance_name="Image7"></mutation>
+        <field name="COMPONENT_SELECTOR">Image7</field>
+        <field name="PROP">Picture</field>
+        <value name="VALUE">
+          <block type="text" id="!Ic~vzmek|7)hQFA90L[">
+            <field name="TEXT">http://cdn.onlinewebfonts.com/svg/img_568492.png</field>
+          </block>
+        </value>
+        <next>
+          <block type="component_set_get" id="RP[dgb:@D0$3dXVlfwEZ">
+            <mutation component_type="Image" set_or_get="set" property_name="Picture" is_generic="false" instance_name="Image7_copy"></mutation>
+            <field name="COMPONENT_SELECTOR">Image7_copy</field>
+            <field name="PROP">Picture</field>
+            <value name="VALUE">
+              <block type="text" id="pdmq!*]ddW{pXIO.cwm;">
+                <field name="TEXT">https://cdn-icons-png.flaticon.com/512/25/25694.png</field>
+              </block>
+            </value>
+            <next>
+              <block type="component_set_get" id=",f*lHemx,{;Vw@j:?{vg">
+                <mutation component_type="Image" set_or_get="set" property_name="Picture" is_generic="false" instance_name="Image8"></mutation>
+                <field name="COMPONENT_SELECTOR">Image8</field>
+                <field name="PROP">Picture</field>
+                <value name="VALUE">
+                  <block type="text" id="s#K$O2,V:K}6$_aGv#`-">
+                    <field name="TEXT">https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhlQnsEaXhiR5p-Qba7Yh_Hz19iTH_bbqaig&amp;usqp=CAU</field>
+                  </block>
+                </value>
+                <next>
+                  <block type="component_set_get" id="cIKhRNsUMb{lW4~Iou)6">
+                    <mutation component_type="Image" set_or_get="set" property_name="Picture" is_generic="false" instance_name="Image9"></mutation>
+                    <field name="COMPONENT_SELECTOR">Image9</field>
+                    <field name="PROP">Picture</field>
+                    <value name="VALUE">
+                      <block type="text" id="arQH[1l@8pu;c]{$ie`u">
+                        <field name="TEXT">https://w7.pngwing.com/pngs/651/45/png-transparent-hair-coloring-beauty-parlour-human-hair-color-hairstyle-hair-text-people-cosmetics.png</field>
+                      </block>
+                    </value>
+                    <next>
+                      <block type="component_set_get" id="o1^?S}|xzT=()S];~zht">
+                        <mutation component_type="Image" set_or_get="set" property_name="Picture" is_generic="false" instance_name="Image10"></mutation>
+                        <field name="COMPONENT_SELECTOR">Image10</field>
+                        <field name="PROP">Picture</field>
+                        <value name="VALUE">
+                          <block type="text" id="s?(A!ADkv*5fW$`Q+f.G">
+                            <field name="TEXT">https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/08/10/3232050610.jpg</field>
+                          </block>
+                        </value>
+                        <next>
+                          <block type="component_set_get" id="nO/Tt3H-d7N:ObNq0f@m">
+                            <mutation component_type="Image" set_or_get="set" property_name="Picture" is_generic="false" instance_name="Image11"></mutation>
+                            <field name="COMPONENT_SELECTOR">Image11</field>
+                            <field name="PROP">Picture</field>
+                            <value name="VALUE">
+                              <block type="text" id="=1R!:3[gqb.6G-kun^.e">
+                                <field name="TEXT">https://giovanibarbershop.com/wp-content/uploads/2020/03/model-rambut-pria.jpg</field>
+                              </block>
+                            </value>
+                            <next>
+                              <block type="component_set_get" id="w}dQiI*hi.+*BRb(BZ*l">
+                                <mutation component_type="Image" set_or_get="set" property_name="Picture" is_generic="false" instance_name="Image12"></mutation>
+                                <field name="COMPONENT_SELECTOR">Image12</field>
+                                <field name="PROP">Picture</field>
+                                <value name="VALUE">
+                                  <block type="text" id="BXf7{Mi;_}#H)SGfOOy6">
+                                    <field name="TEXT">https://portalmadura.com/wp-content/uploads/2020/12/model-rambut-jambul-pria.png</field>
+                                  </block>
+                                </value>
+                                <next>
+                                  <block type="component_set_get" id="@HR+(W-N`A.`2hnI+y-~">
+                                    <mutation component_type="Image" set_or_get="set" property_name="Picture" is_generic="false" instance_name="Image13"></mutation>
+                                    <field name="COMPONENT_SELECTOR">Image13</field>
+                                    <field name="PROP">Picture</field>
+                                    <value name="VALUE">
+                                      <block type="text" id="h8]81R)4)C0T~5e|+6-t">
+                                        <field name="TEXT">https://oss.mommyasia.id/photo/5c65214d299886602bbc7968</field>
+                                      </block>
+                                    </value>
+                                    <next>
+                                      <block type="component_set_get" id="rvCT1@hxck%BQcShn/K4">
+                                        <mutation component_type="Image" set_or_get="set" property_name="Picture" is_generic="false" instance_name="Image14"></mutation>
+                                        <field name="COMPONENT_SELECTOR">Image14</field>
+                                        <field name="PROP">Picture</field>
+                                        <value name="VALUE">
+                                          <block type="text" id="q:i7l1vp9WP9q:n,!_Va">
+                                            <field name="TEXT">https://www.kibrispdr.org/data/model-rambut-kepala-besar-3.jpg</field>
+                                          </block>
+                                        </value>
+                                        <next>
+                                          <block type="component_set_get" id="4~O5R]kf;)Nu3Tj4;P^p">
+                                            <mutation component_type="Image" set_or_get="set" property_name="Picture" is_generic="false" instance_name="Image15"></mutation>
+                                            <field name="COMPONENT_SELECTOR">Image15</field>
+                                            <field name="PROP">Picture</field>
+                                            <value name="VALUE">
+                                              <block type="text" id="kkxNlnBL@;kplqQfcx}p">
+                                                <field name="TEXT">http://3.bp.blogspot.com/-h_wMu8EM59g/Vd6DIsEuDKI/AAAAAAAADOw/X75eJoDooLY/s1600/Model%2BGaya%2BRambut%2BPria%2BUndercut%2BPendek.png</field>
+                                              </block>
+                                            </value>
+                                            <next>
+                                              <block type="component_set_get" id="1(wR,TT2YwI/V!E;9D/:">
+                                                <mutation component_type="Image" set_or_get="set" property_name="Picture" is_generic="false" instance_name="Image16"></mutation>
+                                                <field name="COMPONENT_SELECTOR">Image16</field>
+                                                <field name="PROP">Picture</field>
+                                                <value name="VALUE">
+                                                  <block type="text" id="|`lcY,]i-a2(vDy=$iCT">
+                                                    <field name="TEXT">https://safecare.co.id/images/users/dummy.png</field>
+                                                  </block>
+                                                </value>
+                                                <next>
+                                                  <block type="component_set_get" id=")uxhEh2[OU4Z*s`x~YXP">
+                                                    <mutation component_type="Image" set_or_get="set" property_name="Picture" is_generic="false" instance_name="Image17"></mutation>
+                                                    <field name="COMPONENT_SELECTOR">Image17</field>
+                                                    <field name="PROP">Picture</field>
+                                                    <value name="VALUE">
+                                                      <block type="text" id="rf`5$5amVugAKbb{@1K#">
+                                                        <field name="TEXT">https://safecare.co.id/images/users/dummy.png</field>
+                                                      </block>
+                                                    </value>
+                                                    <next>
+                                                      <block type="component_set_get" id="S{(?:.RHp-mN*6L5!Wko">
+                                                        <mutation component_type="Image" set_or_get="set" property_name="Picture" is_generic="false" instance_name="Image18"></mutation>
+                                                        <field name="COMPONENT_SELECTOR">Image18</field>
+                                                        <field name="PROP">Picture</field>
+                                                        <value name="VALUE">
+                                                          <block type="text" id="Fb@hg/_6Zdhz$h7@M?:$">
+                                                            <field name="TEXT">https://safecare.co.id/images/users/dummy.png</field>
+                                                          </block>
+                                                        </value>
+                                                        <next>
+                                                          <block type="component_set_get" id="#oLoaUgx4u8C{Ti6JPQo">
+                                                            <mutation component_type="Image" set_or_get="set" property_name="Picture" is_generic="false" instance_name="Image19"></mutation>
+                                                            <field name="COMPONENT_SELECTOR">Image19</field>
+                                                            <field name="PROP">Picture</field>
+                                                            <value name="VALUE">
+                                                              <block type="text" id="g*)qrrtBPwP6stMTQHJ4">
+                                                                <field name="TEXT">https://safecare.co.id/images/users/dummy.png</field>
+                                                              </block>
+                                                            </value>
+                                                            <next>
+                                                              <block type="component_set_get" id="lYFLpbw6pKYwJF6_JWuz">
+                                                                <mutation component_type="Image" set_or_get="set" property_name="Picture" is_generic="false" instance_name="Image20"></mutation>
+                                                                <field name="COMPONENT_SELECTOR">Image20</field>
+                                                                <field name="PROP">Picture</field>
+                                                                <value name="VALUE">
+                                                                  <block type="text" id="Efjjbmff={)`YP/:5,:u">
+                                                                    <field name="TEXT">https://safecare.co.id/images/users/dummy.png</field>
+                                                                  </block>
+                                                                </value>
+                                                                <next>
+                                                                  <block type="component_set_get" id="V^=]T$l+l,GmyYXzN1g]">
+                                                                    <mutation component_type="Image" set_or_get="set" property_name="Picture" is_generic="false" instance_name="Image22"></mutation>
+                                                                    <field name="COMPONENT_SELECTOR">Image22</field>
+                                                                    <field name="PROP">Picture</field>
+                                                                    <value name="VALUE">
+                                                                      <block type="text" id="Ln[irmmy6*BnUeXe1kR,">
+                                                                        <field name="TEXT">https://uxwing.com/wp-content/themes/uxwing/download/19-e-commerce-currency-shopping/open.png</field>
+                                                                      </block>
+                                                                    </value>
+                                                                    <next>
+                                                                      <block type="component_set_get" id="NRl/Lpv}.f0$`T5Sh?,S">
+                                                                        <mutation component_type="Image" set_or_get="set" property_name="Picture" is_generic="false" instance_name="Image23"></mutation>
+                                                                        <field name="COMPONENT_SELECTOR">Image23</field>
+                                                                        <field name="PROP">Picture</field>
+                                                                        <value name="VALUE">
+                                                                          <block type="text" id="LajE{wzXbCVenrL@x#|)">
+                                                                            <field name="TEXT">https://png.pngtree.com/png-vector/20190115/ourmid/pngtree-vector-location-icon-png-image_317888.jpg</field>
+                                                                          </block>
+                                                                        </value>
+                                                                        <next>
+                                                                          <block type="component_set_get" id="#5fTxlHqA_2stl)]hv[?">
+                                                                            <mutation component_type="Image" set_or_get="set" property_name="Picture" is_generic="false" instance_name="Image23_copy"></mutation>
+                                                                            <field name="COMPONENT_SELECTOR">Image23_copy</field>
+                                                                            <field name="PROP">Picture</field>
+                                                                            <value name="VALUE">
+                                                                              <block type="text" id="XmWPse1Yt:J),/7H5jbj">
+                                                                                <field name="TEXT">https://png.pngtree.com/element_our/sm/20180626/sm_5b321c99945a2.jpg</field>
+                                                                              </block>
+                                                                            </value>
+                                                                            <next>
+                                                                              <block type="component_set_get" id="^]n%FkFH3+F,n_*7VJUS">
+                                                                                <mutation component_type="Image" set_or_get="set" property_name="Picture" is_generic="false" instance_name="Image23_copy_copy"></mutation>
+                                                                                <field name="COMPONENT_SELECTOR">Image23_copy_copy</field>
+                                                                                <field name="PROP">Picture</field>
+                                                                                <value name="VALUE">
+                                                                                  <block type="text" id="WDI)5qQ|V~4H)P4LmtN;">
+                                                                                    <field name="TEXT">https://cdn-icons-png.flaticon.com/512/87/87390.png</field>
+                                                                                  </block>
+                                                                                </value>
+                                                                              </block>
+                                                                            </next>
+                                                                          </block>
+                                                                        </next>
+                                                                      </block>
+                                                                    </next>
+                                                                  </block>
+                                                                </next>
+                                                              </block>
+                                                            </next>
+                                                          </block>
+                                                        </next>
+                                                      </block>
+                                                    </next>
+                                                  </block>
+                                                </next>
+                                              </block>
+                                            </next>
+                                          </block>
+                                        </next>
+                                      </block>
+                                    </next>
+                                  </block>
+                                </next>
+                              </block>
+                            </next>
+                          </block>
+                        </next>
+                      </block>
+                    </next>
+                  </block>
+                </next>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="*P(lc4)~`)XFCUu+B1wB" x="-410" y="330">
+    <mutation component_type="MakeroidFab" is_generic="false" instance_name="Floating_Action_Button1" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Floating_Action_Button1</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id=":|`%b]S1Waz;*^0nw}s0">
+        <value name="SCREEN">
+          <block type="text" id="^s!vPUr`[yvTd/NF7-_~">
+            <field name="TEXT">Screen1</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <yacodeblocks ya-version="230" language-version="32"></yacodeblocks>
+</xml>
